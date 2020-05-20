@@ -1,0 +1,13 @@
+# Turn Rewrite Engine On
+RewriteEngine On
+
+# Custom URLS's
+RewriteRule ^about /public/pages/about/index.php [NC]
+RewriteRule ^blog /public/pages/blog/index.php [NC]
+RewriteRule ^contact /public/pages/contact/index.php [NC]
+RewriteRule ^home /public/pages/home/index.php [NC]
+RewriteRule ^labs /public/pages/labs/index.php [NC]
+RewriteRule ^portfolio /public/pages/portfolio/index.php [NC]
+RewriteRule ^portfolio/graphic-design /public/pages/portfolio/graphic_design.php [NC]
+RewriteRule ^portfolio/user-interface /public/pages/portfolio/user_interface.php [NC]
+RewriteRule ^portfolio/web-development /public/pages/portfolio/web_development.php [NC]

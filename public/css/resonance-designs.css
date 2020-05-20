@@ -1,0 +1,13 @@
+@import url("reset.css");
+@import url("//fonts.googleapis.com/css?family=Nunito:400,700");
+@import url("boiler-plate.css");
+@import url("//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css");
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+@import url("normalize.css");
+@import url("fonts.css");
+@import url("custom.css");
+@import url("animate.css");
+@import url("random-icons.php");
+/* REPLACE CUSTOM.CSS AND RANDOM-ICONS.PHP WITH THIS ONCE STYLING IS FINISHED 
+@import url("custom.php");
+*/
